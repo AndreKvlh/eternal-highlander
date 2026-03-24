@@ -129,7 +129,7 @@ section li.hover-img:hover {
     cursor: default;
 }
 
-#oq, #regras, #banidas {
+#oq, #regras, #banidas, #tiers {
     padding-top: 60px;
     padding-bottom: 80px;
 }
