@@ -2,6 +2,7 @@
 
 * {
     font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
     margin: 0;
     padding: 0;
 }
@@ -88,6 +89,14 @@ header a {
     text-shadow: 1px 1px black;
 }
 
+#titulo p {
+    text-align: center;
+}
+
+#titulo h1 {
+    text-align: center;
+}
+
 #imagem {
     background-size: cover;
     background-attachment: fixed;
@@ -120,8 +129,16 @@ section ul {
     list-style-position: inside;
 }
 
+section ul.tiers > li {
+    margin-bottom: 15px;
+}
+
 section li {
     width: fit-content;
+}
+
+section h1, h2 {
+    text-align: left;
 }
 
 section li.hover-img:hover {
@@ -164,6 +181,14 @@ section table {
 
 section th, section td {
     padding: 5px;
+}
+
+section a {
+    color: rgb(39, 39, 40);
+}
+
+section a:visited {
+    color: rgb(39, 39, 40);
 }
 
 section tr:nth-child(odd) {background-color: rgb(233, 232, 232);}
@@ -217,10 +242,19 @@ footer p {
 
     #titulo {
         top: 300px;
+        left: 0px;
+    }
+
+    #titulo p {
+        left: 0px;
+        text-align: center;
+    }
+    #titulo h1 {
+        text-align: center;
     }
 
     section table {
-        margin-left: 0;
+        margin-left: 12%;
         margin-right: 0;
         margin-bottom: 10px;
     }
