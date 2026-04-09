@@ -24,3 +24,12 @@ O projeto foi pensado para ser escalável. As próximas etapas incluem:
 * **Blog Integrado:** Para notícias, metas de jogo e análise de decks.
 
 * **Web App Dedicado:** Transição da planilha para uma plataforma própria de cálculo de decks (estilo Moxfield), com banco de dados e autenticação.
+
+## Imagens do Projeto
+
+Projeto Finalizado:
+!<img width="1618" height="870" alt="image" src="https://github.com/user-attachments/assets/1f570712-2093-4b1e-a5dc-d310bfb7f1af" />
+
+Protótipo do Figma (na época o nome era outro porém foi necessário alterar para Eternal Highlander)
+!<img width="864" height="576" alt="image" src="https://github.com/user-attachments/assets/8dccac0f-285c-4d28-b20b-8985ba7c51ef" />
+
